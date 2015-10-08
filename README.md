@@ -18,4 +18,4 @@ Microsoft Security Essentials is free and easy to download and use. Here's what 
 ••••••••••••••••••••••••••••••••••••••••••••••••••Description••••••••••••••••••••••••••••••••••••••••••••••••••••••
 Video designed by SouthernVEVO Channel (Neith UIhe 古宝 孝)
 Editor and Modify the Software by SouthernVEVO
-Copyright by Microsoft®
+Copyright by Microsoft®.
