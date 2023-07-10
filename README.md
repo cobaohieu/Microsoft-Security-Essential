@@ -1,8 +1,8 @@
 # Microsoft Security Essentials for Windows 8, 8.1, 10, Server 2012 or later (outdated)
 
 ## Link download
-- MSEInstall_x64 for Windows 64 bit (x64): http://1drv.ms/1hqkJtf
-- MSEInstall_x86 for Windows 32 bit (x86): http://1drv.ms/1hqkLkQ
+- MSEInstall_x64 for Windows 64 bit (x64): [Download_MSEInstall_x64](https://github.com/cobaohieu/Microsoft-Security-Essential/blob/master/MSEInstall_x64.exe)
+- MSEInstall_x86 for Windows 32 bit (x86): [Download_MSEInstall_x86](https://github.com/cobaohieu/Microsoft-Security-Essential/blob/master/MSEInstall_x86.exe)
 
 ## System requirements
 #### Microsoft Security Essentials is free and easy to download and use. Here's what you need to run it:
